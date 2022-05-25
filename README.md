@@ -8,11 +8,12 @@ till i found javascript.
 
 <b>💻 Technologies</b>
 
-- Frontend: Javascript, React.js & JQuery (Junior) | HTML & CSS (Flexbox)
-- Backend: Java | Python | PHP (Basic)
-- Database: MySQL (Basic)
+- Frontend: Javascript | React.js | JQuery | HTML & CSS
+- Javascript: Asynchrony (AJAX, FETCH, AXIOS) | DOM | POO
+- Backend: Node.js
+- Database: MySQL
 - SO: Windows & Linux
-- GIT
+- GIT & GITHUB
 
 <b>📖 Courses</b>
 
